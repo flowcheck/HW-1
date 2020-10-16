@@ -2,18 +2,38 @@
   <head>
   <h1>About <span>Jack</span> MacKinnon</h1>
   <h2>10-12-2020</h2>
-<p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-		tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-		quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-		consequat. </p>
+</head>
+<body>
+<p> Who Am I? I am Jack Mackinnon, I like skiing, I work at a summercamp, I have 2 dogs.
+When I'm not skiing I like traveling too, road trips are the best.<br> I got super interested
+in the IDP Program when a friend of mine really enjoyed it. I want to learn how to use
+sublime and HTML. </p>
 <ol>
-  <li><a href="https://www.instagram.com/jackmackinnon458/?hl=en">My Instagram</a></li>
+  <a target="_blank" href="https://www.instagram.com/jackmackinnon458/?hl=en">My Instagram</a></li><br>
+  <a target="_blank" href="https://github.com/flowcheck/HW-1.git">My Github Repository</a></li>
 </ol>
-<p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-		tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-		quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-		consequat.</p>
+<p> Learning Illustrator is also really interesting. It's so cool what you can make, you can
+just imagine it and create it. Such an awesome program, I'm really enjoying it. I tried to create
+an account to collaborate with on github, but it got flagged and hidden.<br> Made a second one and that got
+flagged as well. Couldn't find somebody to collaborate with. The Sublime program is great for coding however,
+I really like how it autofills commands sometimes. Such as closing automatically. </p>
 <div>
-  <img src="images/264x264.jpg" alt="Art"
-  width="264" height="264">
-  
+  <img src="https://s3.amazonaws.com/filepicker-images-rapgenius/q4mimanyu0e" alt="Kanye West Yhandi Cover"
+  width="300" height="300">
+
+  <img src="https://upload.wikimedia.org/wikipedia/en/4/44/Kids_See_Ghosts_Cover.png" alt="Kanye West Kids See Kids See Ghosts Cover"
+  width="300" height="300">
+
+  <img src="https://upload.wikimedia.org/wikipedia/en/7/79/Front_cover_of_%27The_Dream_Is_Over%27_by_%27PUP%27.jpg" alt="PUP The Dream Is Over Cover"
+  width="300" height="300">
+
+  <img src="https://upload.wikimedia.org/wikipedia/en/5/5e/Mac_Miller_-_Swimming.png" alt="Mac Miller Swimming Cover"
+  width="300" height="300"
+</div>
+<p> Above are 4 of my favourite album covers, I like them because of the art and creativity that went into creating them.<br>
+	It helps inspire me to create more. I really want to excel in this class and the course as a whole. I'm really enjoying the classes I am in.<br>
+	Working from home is difficult as the FOL is confusing and organzing files on my own system is a relatively new thing. It's taking quite a bit of getting used to,<br>
+	but I want to learn the content and am excited to see whats in store.
+	</p>
+</body>
+</html>
