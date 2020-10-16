@@ -4,11 +4,12 @@
   <h2>10-12-2020</h2>
 </head>
 <body>
+<body style="background-color:powderblue;">
 <p> Who Am I? I am Jack Mackinnon, I like skiing, I work at a summercamp, I have 2 dogs.
 When I'm not skiing I like traveling too, road trips are the best.<br> I got super interested
 in the IDP Program when a friend of mine really enjoyed it. I want to learn how to use
 sublime and HTML. </p>
-<ol>
+<ol
   <a target="_blank" href="https://www.instagram.com/jackmackinnon458/?hl=en">My Instagram</a></li><br>
   <a target="_blank" href="https://github.com/flowcheck/HW-1.git">My Github Repository</a></li>
 </ol>
